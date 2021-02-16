@@ -26,17 +26,17 @@ export default function Home() {
 
           <a href="https://github.com/BoomD3v/nextjs-web/" className={styles.card}>
             <h3>Discord Bot Project &rarr;</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In fermentum posuere urna nec tincidunt praesent semper.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
           </a>
 
           <a href="/#" className={styles.card}>
             <h3>blandit cursus risus</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In fermentum posuere urna nec tincidunt praesent semper.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
           </a>
 
           <a href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app" className={styles.card}>
             <h3>blandit cursus risus</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In fermentum posuere urna nec tincidunt praesent semper.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
           </a>
         </div>
       </main>
