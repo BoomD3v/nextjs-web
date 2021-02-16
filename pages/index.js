@@ -1,6 +1,11 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 
+var func = window.onload = () => {
+  var x = document.getElementsByTagName("a");
+  return x.setAttribute("target", "_blank");
+}
+
 export default function Home() {
   return (
     <div className={styles.container}>
