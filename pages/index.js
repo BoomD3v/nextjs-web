@@ -20,12 +20,12 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a target="_blank" href="https://github.com/BoomD3v/nextjs-web/" className={styles.card}>
-            <h3>Web Dev Project &rarr;</h3>
+            <h3>Web Dev Project</h3>
             <p>My Web Development Project using the Next.js library.</p>
           </a>
 
           <a target="_blank" href="https://github.com/BoomD3v/nextjs-web/" className={styles.card}>
-            <h3>Discord Bot Project &rarr;</h3>
+            <h3>Discord Bot Project</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
           </a>
 
