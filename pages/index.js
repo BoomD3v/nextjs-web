@@ -21,7 +21,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://github.com/BoomD3v/nextjs-web/" className={styles.card}>
             <h3>Web Dev Project &rarr;</h3>
-            <p>My Web Development Project using the Next.js library.</p>
+            <p>My Web Development Project using the <a href="https://nextjs.org/"></a> library.</p>
           </a>
 
           <a href="https://github.com/BoomD3v/nextjs-web/" className={styles.card}>
